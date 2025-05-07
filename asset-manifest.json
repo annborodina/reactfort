@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactfort/static/css/main.669f7af0.chunk.css",
+    "main.js": "/reactfort/static/js/main.a96d824b.chunk.js",
+    "main.js.map": "/reactfort/static/js/main.a96d824b.chunk.js.map",
+    "runtime-main.js": "/reactfort/static/js/runtime-main.00a1e329.js",
+    "runtime-main.js.map": "/reactfort/static/js/runtime-main.00a1e329.js.map",
+    "static/js/2.f79effbe.chunk.js": "/reactfort/static/js/2.f79effbe.chunk.js",
+    "static/js/2.f79effbe.chunk.js.map": "/reactfort/static/js/2.f79effbe.chunk.js.map",
+    "index.html": "/reactfort/index.html",
+    "static/css/main.669f7af0.chunk.css.map": "/reactfort/static/css/main.669f7af0.chunk.css.map",
+    "static/js/2.f79effbe.chunk.js.LICENSE.txt": "/reactfort/static/js/2.f79effbe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00a1e329.js",
+    "static/js/2.f79effbe.chunk.js",
+    "static/css/main.669f7af0.chunk.css",
+    "static/js/main.a96d824b.chunk.js"
+  ]
+}
